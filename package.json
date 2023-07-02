@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.3",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.8",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.20",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+  },
+  "name": "comp229.005.group5",
+  "description": "Group Project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kityiwan/COMP229.005.GROUP5.git"
+  },
+  "keywords": [
+    "COMP229.005",
+    "Express",
+    "MEAN",
+    "EJS",
+    "NodeJS",
+    "Group",
+    "Project",
+    "Group",
+    "5"
+  ],
+  "author": "Group 5 - Alejandor, Ines, Alan, Leila, Tyrone, Emily",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kityiwan/COMP229.005.GROUP5/issues"
+  },
+  "homepage": "https://github.com/kityiwan/COMP229.005.GROUP5#readme"
+}
